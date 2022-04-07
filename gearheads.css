@@ -1,0 +1,12 @@
+@import "/edu/wpi/first/shuffleboard/app/dark.css"
+
+.root {
+	-swatch-100: hsb(27, 100%, 100%);
+	-swatch-200: hsb(27, 100%, 95%);
+	-swatch-300: hsb(27, 100%, 90%);
+	-swatch-400: hsb(27, 100%, 85%);
+	-swatch-500: hsb(27, 100%, 80%);
+	-swatch-light-gray: #333;
+	-swatch-gray: #2A2A2A;
+	-swatch-dark-gray: #222;
+}
